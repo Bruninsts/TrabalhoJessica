@@ -1,8 +1,5 @@
 Nome do Projeto: Planejador Financeiro
-Objetivo Geral: Um sistema que ajude a facilitar na organização financeira.
-Principais funcionalidades previstas
-Planejamento financeiro
-Controlar gastos
-Nome do(a) Autor(a): Nicole e Bruno
-Etapas Futuras
-implementação de mais funcionalidades, correção de bugs, 
+Nome do(s) Autor(es): Nicole Naira Ribeiro da Silva & Bruno Santos Soares
+Objetivo Geral: Um sistema que ajude na organização financeira;
+As principais funcionalidades previstas são: organizar, calcular e ajudar nas despesas;
+Etapas Futuras: Implementação de mais funcionalidades, correção de bugs;
